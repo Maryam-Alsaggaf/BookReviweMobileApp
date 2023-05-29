@@ -6,7 +6,6 @@
   for each other reviews and had their own favories list of reviwes  </h7> 
 
 <h5>Here are the UI for the app: </h5>
-https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/issues/2#issue-1730926994
 
 
 <h2>Features :</h2>
