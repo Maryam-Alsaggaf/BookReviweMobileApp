@@ -34,14 +34,20 @@ https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/issues/6#issue-1730979678
 
 <h5>Here are the UI for the app: </h5>
 
-![WhatsApp Image 2023-05-29 at 5 58 27 PM (1)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/6c498f97-d4a0-4b6b-8361-e8815f79ac60)
-![WhatsApp Image 2023-05-29 at 5 58 27 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/e52e47b4-9b8b-47cb-b99a-4fb729845a54)
-![WhatsApp Image 2023-05-29 at 5 58 28 PM (1)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/27c5e60e-c4f6-4684-ba41-ad8586b75e78)
-![WhatsApp Image 2023-05-29 at 5 58 28 PM (2)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/98a6635f-f3f1-4434-bc99-0b6c9b29521a)
-![WhatsApp Image 2023-05-29 at 5 58 28 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/4f8de20d-0369-413e-98e6-49c87ed7220a)
-![WhatsApp Image 2023-05-29 at 5 58 29 PM (1)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/20648c6f-f9aa-4efd-bf42-2207729d0370)
-![WhatsApp Image 2023-05-29 at 5 58 29 PM (2)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/5136cd7d-51d3-45f9-9433-bdd1de922aa7)
-![WhatsApp Image 2023-05-29 at 5 58 29 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/3011f278-5471-4470-b105-6c9cb6877e9a)
-![WhatsApp Image 2023-05-29 at 5 58 30 PM (1)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/02efcc1b-c148-440a-ac6e-9af49a73e61e)
-![j](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/ff9c012b-51ae-4f37-9bbe-b6cb649cbaad)
-![WhatsApp Image 2023-05-29 at 5 58 30 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/5d88ff09-84d2-405f-a615-924a1cc15571)
+
+
+
+![WhatsApp Image 2023-05-29 at 5 58 30 PM (2)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/212ebe82-d62b-4a61-a338-eb6817dc8fd2)
+![WhatsApp Image 2023-05-29 at 5 58 29 PM (1)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/35de8980-5e54-4065-9702-fb175d90bfa5)
+![WhatsApp Image 2023-05-29 at 7 33 23 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/9b53129b-5cee-4b09-910e-079f6e355bbf)
+
+![WhatsApp Image 2023-05-29 at 7 26 55 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/f095248f-3ba1-4471-987f-23fb83f36abc)
+![WhatsApp Image 2023-05-29 at 7 26 55 PM (1)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/c342cc3a-414e-4028-8037-a4b5fb8fd5b0)
+![WhatsApp Image 2023-05-29 at 5 58 29 PM (2)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/ecc79728-fde5-410a-a9ea-05b5d17a2b04)
+![WhatsApp Image 2023-05-29 at 5 58 28 PM (2)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/a13db922-f8d0-49ab-91a0-a9a8b2b23bd4)
+![WhatsApp Image 2023-05-29 at 7 31 15 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/df624cbb-008a-4630-8d75-730f70d05060)
+![WhatsApp Image 2023-05-29 at 5 58 27 PM (1)](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/fa29315a-db31-4145-a7b2-3feb4f9b6589)
+
+![WhatsApp Image 2023-05-29 at 7 33 30 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/70927527-079b-4f8a-9c6c-9371f0d52819)
+
+![WhatsApp Image 2023-05-29 at 5 58 27 PM](https://github.com/Maryam-Alsaggaf/BookReviweMobileApp/assets/105236306/8b34cf17-7c5f-4042-9954-4d6a7f8b1dee)
